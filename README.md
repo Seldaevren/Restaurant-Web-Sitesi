@@ -12,4 +12,4 @@ Responsive bir Restaurant web sitesi geliştirildi.
 
 # GIF
 
-![](Restaurant.gif)
+![](Restaurant%20New.gif)
