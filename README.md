@@ -3,6 +3,7 @@ This project is a fully responsive web application for a pizza restaurant built 
 
 # Used technologies 
 -HTML: is the standard markup language for creating Web pages.
+
 -CSS: is the language we use to style a Web page.
 
 # Preview
